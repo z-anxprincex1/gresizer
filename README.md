@@ -58,3 +58,7 @@ Open **PowerShell as Administrator** and run:
 Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 cd path\to\gresizer
 .\resizebf6gui_v2.ps1
+```
+
+### Enjoying GResizer?
+If it helped your Battlefield 6 experience, you can show some love [here](https://buymeacoffee.com/andydoes). ❤️
